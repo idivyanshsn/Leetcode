@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    int dia=0;
-    int calch8(TreeNode* root){
+    
+    int calch8(TreeNode* root,int &dia){
         if(root==nullptr){
             return 0;
         }
-        int lh=calch8(root->left);
-        int rh=calch8(root->right);
+        int lh=calch8(root->left,dia);
+        int rh=calch8(root->right,dia);
         dia=max(dia,lh+rh);
         return 1+max(lh,rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        calch8(root);
+        int dia=0;
+        calch8(root,dia);
         return dia;
     }
 };
