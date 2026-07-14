@@ -1,42 +1,35 @@
 class Solution {
-private:
-    bool function(vector<vector<int>>& graph, int node, vector<int>& visited,
-                  vector<int>& pathVis, vector<int> &check) {
-        visited[node] = 1;
-        pathVis[node] = 1;
-        for (auto it : graph[node]) {
-            if (!visited[it]) {
-                if (function(graph, it, visited, pathVis, check)) {
-                    return true;
-                }
-            } else if (pathVis[it]) {
-                return true;
-            }
-        }
-
-        check[node] = 1;
-        pathVis[node] = 0;
-        return false;
-    }
-
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        vector<int> safeNodes;
         int n = graph.size();
-        vector<int> visited(n, 0);
-        vector<int> pathVis(n, 0);
-        vector<int> check(n, 0);
-        vector<int> ans;
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n, 0);
+        queue<int> q;
+        for (int u = 0; u < n; u++) {
+            for (int v : graph[u]) {
+                adj[v].push_back(u);
+                indegree[u]++;
+            }
+        }
+        
         for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                function(graph, i, visited, pathVis, check);
+            if (indegree[i] == 0) {
+                q.push(i);
             }
         }
-
-        for(int i=0;i<check.size();i++){
-            if(check[i]==1){
-                ans.push_back(i);
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            safeNodes.push_back(node);
+            for (auto it : adj[node]) {
+                indegree[it]--;
+                if (indegree[it] == 0) {
+                    q.push(it);
+                }
             }
         }
-        return ans;
+        sort(safeNodes.begin(), safeNodes.end());
+        return safeNodes;
     }
 };
