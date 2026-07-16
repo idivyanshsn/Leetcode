@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/idivyanshsn/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/idivyanshsn/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/idivyanshsn/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/idivyanshsn/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/idivyanshsn/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/idivyanshsn/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/idivyanshsn/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
