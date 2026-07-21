@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/idivyanshsn/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/idivyanshsn/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0542-01-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/idivyanshsn/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/idivyanshsn/Leetcode/tree/master/0994-rotting-oranges) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/idivyanshsn/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/idivyanshsn/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/idivyanshsn/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/idivyanshsn/Leetcode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
