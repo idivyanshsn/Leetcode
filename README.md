@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/idivyanshsn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/idivyanshsn/Leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/idivyanshsn/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/idivyanshsn/Leetcode/tree/master/0200-number-of-islands) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/idivyanshsn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/idivyanshsn/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/idivyanshsn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/idivyanshsn/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/idivyanshsn/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
