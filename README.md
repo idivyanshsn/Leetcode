@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/idivyanshsn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/idivyanshsn/Leetcode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/idivyanshsn/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/idivyanshsn/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/idivyanshsn/Leetcode/tree/master/0200-number-of-islands) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/idivyanshsn/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/idivyanshsn/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/idivyanshsn/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/idivyanshsn/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/idivyanshsn/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/idivyanshsn/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/idivyanshsn/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
