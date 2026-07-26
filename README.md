@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/idivyanshsn/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/idivyanshsn/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/idivyanshsn/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/idivyanshsn/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/idivyanshsn/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/idivyanshsn/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/idivyanshsn/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
