@@ -8,8 +8,9 @@ public:
         int rightIndex = n - 1;
         for (int i = 0; i < k; i++) {
             leftsum += cardPoints[i];
-            maxSum = leftsum;
+            
         }
+        maxSum = leftsum;
         for (int i = k - 1; i >= 0; i--) {
             leftsum -= cardPoints[i];
             rightsum += cardPoints[rightIndex];
