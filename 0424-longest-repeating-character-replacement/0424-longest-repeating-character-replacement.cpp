@@ -5,7 +5,6 @@ public:
         int right=0;
         int left=0;
         int n = s.size();
-        int ans=0;
         int maxFreq=0;
         int maxLen=0;
         while(right<n){
