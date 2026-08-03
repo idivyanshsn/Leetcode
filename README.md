@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/idivyanshsn/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/idivyanshsn/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/idivyanshsn/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/idivyanshsn/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/idivyanshsn/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/idivyanshsn/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/idivyanshsn/Leetcode/tree/master/1406-stone-game-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/idivyanshsn/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/idivyanshsn/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/idivyanshsn/Leetcode/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/idivyanshsn/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/idivyanshsn/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/idivyanshsn/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/idivyanshsn/Leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/idivyanshsn/Leetcode/tree/master/0461-hamming-distance) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/idivyanshsn/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/idivyanshsn/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
