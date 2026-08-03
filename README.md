@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/idivyanshsn/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/idivyanshsn/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/idivyanshsn/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0494-target-sum) |
 ## Binary Search Tree
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/idivyanshsn/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/idivyanshsn/Leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/idivyanshsn/Leetcode/tree/master/0461-hamming-distance) |
