@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/idivyanshsn/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/idivyanshsn/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/idivyanshsn/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/idivyanshsn/Leetcode/tree/master/0189-rotate-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/idivyanshsn/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/idivyanshsn/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/idivyanshsn/Leetcode/tree/master/0231-power-of-two) |
