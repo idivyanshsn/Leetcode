@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/idivyanshsn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/idivyanshsn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/idivyanshsn/Leetcode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/idivyanshsn/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/idivyanshsn/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/idivyanshsn/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/idivyanshsn/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/idivyanshsn/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/idivyanshsn/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/idivyanshsn/Leetcode/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/idivyanshsn/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/idivyanshsn/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/idivyanshsn/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/idivyanshsn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/idivyanshsn/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/idivyanshsn/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/idivyanshsn/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0931-minimum-falling-path-sum) |
