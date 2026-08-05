@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/idivyanshsn/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/idivyanshsn/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/idivyanshsn/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/idivyanshsn/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/idivyanshsn/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/idivyanshsn/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/idivyanshsn/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/idivyanshsn/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/idivyanshsn/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/idivyanshsn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/idivyanshsn/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/idivyanshsn/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/idivyanshsn/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/idivyanshsn/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/idivyanshsn/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/idivyanshsn/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/idivyanshsn/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
