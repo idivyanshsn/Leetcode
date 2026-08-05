@@ -1,47 +1,36 @@
 class Solution {
 public:
-    vector<vector<int>> fourSum(vector<int>& arr, int target) {
-        vector<vector<int>> ans;
-        int n =arr.size();
-        sort(arr.begin(),arr.end());
-        for(int i=0;i<n;i++){
-            if(i>0 && arr[i]==arr[i-1]){
+    vector<vector<int>> fourSum(vector<int>& nums, int target) {
+        vector<vector<int>> result;
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+        for (int i = 0; i < n - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1])
                 continue;
-            }
-            for(int j=i+1;j<n;j++){
-                if(j>i+1&&arr[j]==arr[j-1]){
+            for (int j = i + 1; j < n - 2; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1])
                     continue;
-                }
-            int k=j+1;
-            int l=n-1;
-            while(k<l){
-                long long sum=arr[i];
-                sum+=arr[j];
-                sum+=arr[k];
-                sum+=arr[l];
-                if (sum>target){
-                    l--;
-
-                }
-                else if (sum<target){
-                    k++;
-                }
-                else{
-                    vector<int> temp={arr[i],arr[j],arr[k],arr[l]};
-                    ans.push_back(temp);
-                    k++;
-                    l--;
-                    while(k<l&&arr[k]==arr[k-1]){
-                        k++;
-                    }
-                    while(k<l&&arr[l]==arr[l+1]){
-                        l--;
-                    }
+                int left = j + 1;
+                int right = n - 1;
+                while (left < right) {
+                    long long sum =
+                        1LL * nums[left] + nums[right] + nums[i] + nums[j];
+                    if (sum == target) {
+                        result.push_back(
+                            {nums[i], nums[j], nums[left], nums[right]});
+                        while (left < right && nums[left] == nums[left + 1])
+                            left++;
+                        while (left < right && nums[right] == nums[right - 1])
+                            right--;
+                        left++;
+                        right--;
+                    } else if (sum < target)
+                        left++;
+                    else
+                        right--;
                 }
             }
         }
+        return result;
     }
-    return ans;
-        
-    }
-    };
+};
