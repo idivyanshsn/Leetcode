@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/idivyanshsn/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/idivyanshsn/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/idivyanshsn/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/idivyanshsn/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/idivyanshsn/Leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/idivyanshsn/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/idivyanshsn/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/idivyanshsn/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
