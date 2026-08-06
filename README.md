@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/idivyanshsn/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/idivyanshsn/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/idivyanshsn/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/idivyanshsn/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/idivyanshsn/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/idivyanshsn/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/idivyanshsn/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/idivyanshsn/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/idivyanshsn/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/idivyanshsn/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/idivyanshsn/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/idivyanshsn/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/idivyanshsn/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/idivyanshsn/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/idivyanshsn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
