@@ -13,8 +13,7 @@ public:
                 if (st.empty())
                     st.push(i);
                 else {
-                    int currentLength = i - st.top();
-                    length = max(length, currentLength);
+                    length = max(length,i - st.top());
                 }
             }
         }
