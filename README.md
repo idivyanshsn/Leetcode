@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/idivyanshsn/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/idivyanshsn/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/idivyanshsn/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/idivyanshsn/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/idivyanshsn/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/idivyanshsn/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/idivyanshsn/Leetcode/tree/master/0735-asteroid-collision) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/idivyanshsn/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/idivyanshsn/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/idivyanshsn/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/idivyanshsn/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/idivyanshsn/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/idivyanshsn/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/idivyanshsn/Leetcode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/idivyanshsn/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/idivyanshsn/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
