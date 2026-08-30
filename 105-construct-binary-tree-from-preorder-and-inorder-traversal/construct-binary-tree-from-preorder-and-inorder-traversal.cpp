@@ -12,17 +12,20 @@
 class Solution {
 public:
     int preIndex=0;
-    TreeNode* function(vector<int>& preorder, vector<int>& inorder,int start,int end ){
+    TreeNode* function(vector<int>& preorder, vector<int>& inorder,int start,int end,unordered_map<int,int>& mpp){
         if(start>end) return nullptr;
         int rootVal=preorder[preIndex++];
         TreeNode* root=new TreeNode(rootVal);
-        int mid=find(inorder.begin(),inorder.end(),rootVal)-inorder.begin();
-        root->left=function(preorder,inorder,start,mid-1);
-        root->right=function(preorder,inorder,mid+1,end);
+        int mid=mpp[rootVal];
+        root->left=function(preorder,inorder,start,mid-1,mpp);
+        root->right=function(preorder,inorder,mid+1,end,mpp);
 
         return root;
         }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        return function(preorder,inorder,0,preorder.size()-1);
+        unordered_map<int,int> mpp;
+        for(int i=0;i<inorder.size();i++)
+            mpp[inorder[i]]=i;
+        return function(preorder,inorder,0,inorder.size()-1,mpp);
     }
 };
