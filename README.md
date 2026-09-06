@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/idivyanshsn/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/idivyanshsn/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/idivyanshsn/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/idivyanshsn/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/idivyanshsn/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/idivyanshsn/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/idivyanshsn/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/idivyanshsn/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/idivyanshsn/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Sorting
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/idivyanshsn/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/idivyanshsn/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/idivyanshsn/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/idivyanshsn/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/idivyanshsn/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/idivyanshsn/Leetcode/tree/master/2029-stone-game-ix) |
+| [2101-detonate-the-maximum-bombs](https://github.com/idivyanshsn/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/idivyanshsn/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/idivyanshsn/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -830,4 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/idivyanshsn/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/idivyanshsn/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
