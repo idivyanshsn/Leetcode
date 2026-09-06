@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/idivyanshsn/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/idivyanshsn/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/idivyanshsn/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/idivyanshsn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/idivyanshsn/Leetcode/tree/master/2029-stone-game-ix) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/idivyanshsn/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/idivyanshsn/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/idivyanshsn/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/idivyanshsn/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/idivyanshsn/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/idivyanshsn/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/idivyanshsn/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/idivyanshsn/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1905-count-sub-islands](https://github.com/idivyanshsn/Leetcode/tree/master/1905-count-sub-islands) |
 ## Topological Sort
 |  |
 | ------- |
