@@ -1,35 +1,34 @@
 class Solution {
-private:
-    void markSafe(vector<vector<char>>& board, int i, int j, int m, int n) {
-        if (i < 0 || i >= m || j < 0 || j >= n || board[i][j] != 'O')
-            return;
-        board[i][j] = '2';
-        markSafe(board, i + 1, j, m, n);
-        markSafe(board, i, j + 1, m, n);
-        markSafe(board, i - 1, j, m, n);
-        markSafe(board, i, j - 1, m, n);
-    }
-
 public:
+    void function(vector<vector<char>>& board, int i, int j, int n, int m) {
+        if (i < 0 || i >= n || j < 0 || j >= m || board[i][j] != 'O')
+            return;
+        board[i][j] = 's';
+        function(board, i + 1, j, n, m);
+        function(board, i, j - 1, n, m);
+        function(board, i, j + 1, n, m);
+        function(board, i - 1, j, n, m);
+    }
     void solve(vector<vector<char>>& board) {
-        int m = board.size();
-        if(m==0) return;
-        int n = board[0].size();
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                bool isSafe = (i == 0 || j == 0 || i == m - 1 || j == n - 1);
-                if (isSafe && board[i][j] == 'O') {
-                    markSafe(board, i, j, m, n);
-                }
+        int n = board.size();
+        int m = board[0].size();
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                bool isSafe = (i == 0 || i == n - 1 || j == 0 || j == m - 1);
+                if (isSafe && board[i][j] == 'O')
+                    function(board, i, j, n, m);
             }
         }
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O') {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 'O')
                     board[i][j] = 'X';
-                } else if (board[i][j] == '2') {
+            }
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 's')
                     board[i][j] = 'O';
-                }
             }
         }
     }
