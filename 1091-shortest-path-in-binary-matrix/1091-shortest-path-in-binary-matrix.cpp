@@ -2,37 +2,27 @@ class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-        if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1) {
+        if (grid[0][0] != 0 || grid[n - 1][n - 1] != 0)
             return -1;
-        }
-        if (n == 1) {
-            return 1;
-        }
-        vector<vector<int>> dist(n, vector<int>(n, 1e9));
-        queue<pair<int, pair<int, int>>> q;
+        vector<vector<int>> dist(n, vector<int>(n, -1));
+        queue<pair<int, int>> q;
+        q.push({0, 0});
         dist[0][0] = 1;
-        q.push({1, {0, 0}});
-        int delrow[] = {-1, -1, 0, 1, -1, 0, 1, 1};
-        int delcol[] = {0, 1, 1, 0, -1, -1, -1, 1};
+        int dr[] = {-1, -1, -1, 0, 0, 1, 1, 1};
+        int dc[] = {-1, 0, 1, -1, 1, -1, 0, 1};
         while (!q.empty()) {
-            auto it = q.front();
+            auto [r, c] = q.front();
             q.pop();
-            int dis = it.first;
-            int r = it.second.first;
-            int c = it.second.second;
             for (int i = 0; i < 8; i++) {
-                int nrow = delrow[i] + r;
-                int ncol = delcol[i] + c;
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < n &&
-                    grid[nrow][ncol] == 0 && dis + 1 < dist[nrow][ncol]) {
-                    dist[nrow][ncol] = dis + 1;
-                    if (nrow == n - 1 && ncol == n - 1) {
-                        return dis + 1;
-                    }
-                    q.push({1 + dis, {nrow, ncol}});
+                int nr = dr[i] + r;
+                int nc = dc[i] + c;
+                if (nr >= 0 && nr < n && nc >= 0 && nc < n &&
+                    grid[nr][nc] == 0 && dist[nr][nc] == -1) {
+                    dist[nr][nc] = dist[r][c] + 1;
+                    q.push({nr, nc});
                 }
             }
         }
-        return -1;
+        return dist[n - 1][n - 1];
     }
 };
