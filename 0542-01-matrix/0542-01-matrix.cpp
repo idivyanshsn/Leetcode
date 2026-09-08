@@ -1,36 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
-        vector<vector<int>> dist(m, vector<int>(n, 0));
-        vector<vector<int>> visited(m, vector<int>(n, 0));
-        queue<pair<pair<int, int>, int>> q;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (mat[i][j] == 0) {
-                    q.push({{i, j}, 0});
-                    visited[i][j] = 1;
-                } else {
-                    visited[i][j] = 0;
+        int m=mat.size();
+        int n=mat[0].size();
+        int dr[]={1,-1,0,0};
+        int dc[]={0,0,-1,1};
+        vector<vector<int>> dist(m,vector<int>(n,-1));
+        queue<pair<int,int>> q;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(mat[i][j]==0){
+                    q.push({i,j});
+                    dist[i][j]=0;
                 }
             }
         }
-        int delrow[] = {-1, 0, 1, 0};
-        int delcol[] = {0, 1, 0, -1};
-        while (!q.empty()) {
-            int row = q.front().first.first;
-            int col = q.front().first.second;
-            int steps = q.front().second;
+        while(!q.empty()){
+            auto [r,c]=q.front();
             q.pop();
-            dist[row][col] = steps;
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + delrow[i];
-                int ncol = col + delcol[i];
-                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
-                    visited[nrow][ncol] == 0) {
-                    visited[nrow][ncol] = 1;
-                    q.push({{nrow, ncol}, steps + 1});
+            for(int k=0;k<4;k++){
+                int nr=dr[k]+r;
+                int nc=dc[k]+c;
+                if(nr>=0 && nr<m && nc>=0 && nc<n&&dist[nr][nc]==-1){
+                    dist[nr][nc]=dist[r][c]+1;
+                    q.push({nr,nc});
                 }
             }
         }
