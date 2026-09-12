@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/idivyanshsn/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/idivyanshsn/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/idivyanshsn/Leetcode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/idivyanshsn/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/idivyanshsn/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/idivyanshsn/Leetcode/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/idivyanshsn/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
