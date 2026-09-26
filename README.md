@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/idivyanshsn/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/idivyanshsn/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/idivyanshsn/Leetcode/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/idivyanshsn/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/idivyanshsn/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/idivyanshsn/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/idivyanshsn/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
