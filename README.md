@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/idivyanshsn/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/idivyanshsn/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0518-coin-change-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/idivyanshsn/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/idivyanshsn/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/idivyanshsn/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/idivyanshsn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/idivyanshsn/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/idivyanshsn/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/idivyanshsn/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/idivyanshsn/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/idivyanshsn/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/idivyanshsn/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/idivyanshsn/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/idivyanshsn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
