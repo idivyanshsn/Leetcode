@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/idivyanshsn/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/idivyanshsn/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/idivyanshsn/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/idivyanshsn/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/idivyanshsn/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/idivyanshsn/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/idivyanshsn/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -933,4 +935,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/idivyanshsn/Leetcode/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/idivyanshsn/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/idivyanshsn/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
