@@ -1,29 +1,28 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
+        int sum = 0;
         int n = nums.size();
-        int totalSum = 0;
-        for (int i = 0; i < n; i++)
-            totalSum += nums[i];
-        if (totalSum % 2 != 0)
+        for (int num : nums)
+            sum += num;
+        if (sum % 2 != 0)
             return false;
-        int sum = totalSum / 2;
-        vector<vector<bool>> dp(n, vector<bool>(sum + 1, false));
-        for (int i = 0; i < n; i++) {
+        int t = sum / 2;
+        
+        vector<vector<bool>> dp(n, vector<bool>(t + 1, false));
+        if(nums[0] <= t)
+        dp[0][nums[0]] = true;
+        for (int i = 0; i < n; i++)
             dp[i][0] = true;
-        }
-        if (nums[0] <= sum)
-            dp[0][nums[0]] = true;
-        for (int index = 1; index < n; index++) {
-            for (int target = 0; target <= sum; target++) {
-                bool notTaken = dp[index - 1][target];
-                bool taken = false;
-                if (nums[index] <= target) {
-                    taken = dp[index - 1][target - nums[index]];
-                }
-                dp[index][target] = taken || notTaken;
+        for (int i = 1; i <n; i++) {
+            for (int j = 1; j <= t; j++) {
+                bool notpick = dp[i - 1][j];
+                bool pick = false;
+                if (nums[i] <= j)
+                    pick = dp[i - 1][j - nums[i]];
+                dp[i][j] = pick || notpick;
             }
         }
-        return dp[n - 1][sum];
+        return dp[n - 1][t];
     }
 };
